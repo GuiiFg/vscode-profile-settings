@@ -1,0 +1,110 @@
+{
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "javascript.suggest.autoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.rulers": [
+      80,
+      120
+    ],
+    "extensions.ignoreRecommendations": true,
+    "editor.parameterHints.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    "cSpell.language": "en,pt",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.suggestSelection": "first",
+    "gitlens.codeLens.recentChange.enabled": false,
+    "terminal.integrated.showExitAlert": false,
+    "workbench.editor.labelFormat": "short",
+    "editor.fontLigatures": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "explorer.compactFolders": false,
+    "git.enableSmartCommit": true,
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.tabSize": 2,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "window.commandCenter": false,
+    "git.openRepositoryInParentFolders": "always",
+    "security.promptForLocalFileProtocolHandling": false,
+    "workbench.activityBar.location": "hidden",
+    "apc.activityBar": {
+      "position": "bottom",
+      "hideSettings": true,
+      "size": 48,
+      "itemMargin": 8,
+      "itemSize": 32
+    },
+    "editor.minimap.enabled": false,
+    "window.titleBarStyle": "native",
+    "apc.electron": {
+      "titleBarStyle": "hiddenInset",
+      "trafficLightPosition": {
+        "x": 11,
+        "y": 10
+      },
+      "frame": false
+    },
+    "apc.header": {
+      "height": 36
+    },
+    "apc.listRow": {
+      "height": 24
+    },
+    "apc.stylesheet": {
+      ".title-label > h2": "display: none",
+      ".editor-actions": "display: none",
+      ".nosidebar .inline-tabs-placeholder": "width: 75px",
+      ".pane-header": "padding: 0 8px",
+      ".pane-body": "padding: 8px",
+      ".split-view-view:first-child .pane-header": "display: none !important;",
+      ".monaco-list-row": "border-radius: 4px;",
+      ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+    },
+    // "editor.scrollbar.vertical": "hidden",
+    "explorer.sortOrder": "foldersNestsFiles",
+    "explorer.fileNesting.enabled": true,
+    "workbench.colorTheme": "Min Dark",
+    "workbench.statusBar.visible": true,
+    "animations.Install-Method": "Apc Customize UI++",
+    "apc.imports": [
+      "file:///Users/guiifg/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+    ],
+    "animations.CursorAnimation": true,
+    "animations.CursorAnimationOptions": {
+      "Color": "#FF2233",
+      "TrailLength": 20
+    },
+    "workbench.layoutControl.enabled": false,
+    "indentRainbow.colors": [
+      "rgba(3, 4, 94,0.15)",
+      "rgba(2, 62, 138,0.15)",
+      "rgba(0, 119, 182, 0.15)",
+      "rgba(0, 150, 199,0.15)",
+      "rgba(0, 180, 216,0.15)",
+      "rgba(72, 202, 228,0.15)",
+      "rgba(144, 224, 239,0.15)",
+      "rgba(144, 224, 239,0.1)",
+      "rgba(144, 224, 239,0.05)",
+      "rgba(144, 224, 239,0.025)"
+    ],
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.confirmSync": false,
+    "vue.server.hybridMode": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+  }
